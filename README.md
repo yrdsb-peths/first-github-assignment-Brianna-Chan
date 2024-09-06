@@ -6,7 +6,7 @@ Do the following to Complete this assignment:
 
 2. Enter your First Name: Briannaa
 
-3. Enter your favourite animal: dog
+3. Enter your favourite animal: doggg
 
 4. Now click the green 'commit changes' button at the bottom.
 
